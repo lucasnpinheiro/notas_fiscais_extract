@@ -17,6 +17,16 @@ class PisDto extends Dto
         $this->cst = $data["PISALIQ"]["CST"];
     }
 
+    public function toArray(): array
+    {
+        return [
+            "calculation_base" => $this->calculationBase(),
+            "percentage" => $this->percentage(),
+            "value" => $this->value(),
+            "cst" => $this->cst(),
+        ];
+    }
+
     public function calculationBase(): ?float
     {
         return $this->calculationBase;
@@ -35,15 +45,5 @@ class PisDto extends Dto
     public function cst(): ?string
     {
         return $this->cst;
-    }
-
-    public function toArray(): array
-    {
-        return [
-            "calculation_base" => $this->calculationBase(),
-            "percentage" => $this->percentage(),
-            "value" => $this->value(),
-            "cst" => $this->cst(),
-        ];
     }
 }

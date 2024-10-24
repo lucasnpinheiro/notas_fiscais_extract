@@ -260,7 +260,9 @@
             <vTroco>0.00</vTroco>
         </pag>
         <infAdic>
-            <infAdFisco>SAIDA COM SUSPENSAO DO IPI CONFORME ART 29 DA LEI 10.637 BC RED EM 33,33% CFE ART 52, ANEXO II RICMS/00 E DECRETO 62.560 de 05-05-2017</infAdFisco>
+            <infAdFisco>SAIDA COM SUSPENSAO DO IPI CONFORME ART 29 DA LEI 10.637 BC RED EM 33,33% CFE ART 52, ANEXO II
+                RICMS/00 E DECRETO 62.560 de 05-05-2017
+            </infAdFisco>
         </infAdic>
         <infRespTec>
             <CNPJ>52567322000119</CNPJ>

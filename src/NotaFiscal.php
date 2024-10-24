@@ -18,19 +18,6 @@ class NotaFiscal
         $this->convertDataKeysToUppercase();
     }
 
-    public static function loadFromFile(string $filePath): self
-    {
-        if (!file_exists($filePath)) {
-            throw new InvalidArgumentException('File not found');
-        }
-        return self::loadXml(file_get_contents($filePath));
-    }
-
-    public static function loadXml(string $xmlContent): self
-    {
-        return new self($xmlContent);
-    }
-
     private function loadXmlContent(string $xmlContent): void
     {
         $cleanedContent = $this->cleanXmlContent($xmlContent);
@@ -80,7 +67,20 @@ class NotaFiscal
             return $data;
         }
 
-        return array_change_key_case((array) $data, CASE_UPPER);
+        return array_change_key_case((array)$data, CASE_UPPER);
+    }
+
+    public static function loadFromFile(string $filePath): self
+    {
+        if (!file_exists($filePath)) {
+            throw new InvalidArgumentException('File not found');
+        }
+        return self::loadXml(file_get_contents($filePath));
+    }
+
+    public static function loadXml(string $xmlContent): self
+    {
+        return new self($xmlContent);
     }
 
     public function xmlContent(): string
