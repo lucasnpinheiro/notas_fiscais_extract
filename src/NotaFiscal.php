@@ -5,6 +5,7 @@ declare(strict_types=1);
 namespace Lucasnpinheiro\NotasFiscaisExtract;
 
 use InvalidArgumentException;
+use JsonException;
 use SimpleXMLElement;
 
 class NotaFiscal
