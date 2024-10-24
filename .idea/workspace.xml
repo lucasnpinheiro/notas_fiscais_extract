@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="80805649-56e9-47b3-b4e2-67d94d8af1cd" name="Changes" comment="Ajuste gitignore" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable path="composer" />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "lucasnpinheiro"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/lucasnpinheiro/notas_fiscais_extract.git",
+    "accountId": "be5a3644-75d1-46c8-a7ff-e68d72bdc8f1"
+  }
+}]]></component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/complexity" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/cli-parser" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/lines-of-code" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+    </include_path>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2nDHucmYZ75H9JZRS4AgZJyBgVB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Composer Script.coverage.executor": "Run",
+    "Composer Script.test.executor": "Run",
+    "Composer Script.testdox.executor": "Run",
+    "PHP Script.index.php.executor": "Run",
+    "PHPUnit.CofinsDtoTest.executor": "Run",
+    "PHPUnit.CofinsDtoTest.testToArray.executor": "Run",
+    "PHPUnit.IcmsDtoTest.executor": "Run",
+    "PHPUnit.IpiDtoTest.executor": "Run",
+    "PHPUnit.NotaFiscalTest.executor": "Run",
+    "PHPUnit.NotaFiscalTest.testCleanXmlContent.executor": "Run",
+    "PHPUnit.NotaFiscalTest.testLoadFromFileNotExists.executor": "Run",
+    "PHPUnit.NotaFiscalTest.testProductsInXml.executor": "Run",
+    "PHPUnit.NotaFiscalTest.testRemoveTags.executor": "Run",
+    "PHPUnit.NotaFiscalTest.testRemoveTagsSubLevel.executor": "Run",
+    "PHPUnit.PisDtoTest.executor": "Run",
+    "PHPUnit.ProductDtoTest (1).executor": "Run",
+    "PHPUnit.ProductDtoTest.executor": "Run",
+    "PHPUnit.ProductDtoTest.testArrayMonetaryValueWithComma.executor": "Run",
+    "PHPUnit.ProductDtoTest.testToArrayMethod.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.codeium.enabled": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Composer Script.test">
+    <configuration name="test" type="ComposerRunConfigurationType" factoryName="Composer Script" temporary="true">
+      <option name="pathToComposerJson" value="$PROJECT_DIR$/composer.json" />
+      <option name="script" value="test" />
+      <method v="2" />
+    </configuration>
+    <configuration name="NotaFiscalTest.testProductsInXml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="Lucasnpinheiro\NotasFiscaisExtract\Tests\Unit\NotaFiscalTest" file="$PROJECT_DIR$/tests/Unit/NotaFiscalTest.php" method="testProductsInXml" scope="Method" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ProductDtoTest (1)" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="ProductDtoTest" file="$PROJECT_DIR$/tests/Unit/Dto/ProductDtoTest.php" scope="Class" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ProductDtoTest.testArrayMonetaryValueWithComma" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="ProductDtoTest" file="$PROJECT_DIR$/tests/Unit/Dto/ProductDtoTest.php" method="testArrayMonetaryValueWithComma" scope="Method" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ProductDtoTest.testToArrayMethod" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="ProductDtoTest" file="$PROJECT_DIR$/tests/Unit/Dto/ProductDtoTest.php" method="testToArrayMethod" scope="Method" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHPUnit.ProductDtoTest (1)" />
+        <item itemvalue="PHPUnit.ProductDtoTest.testToArrayMethod" />
+        <item itemvalue="PHPUnit.ProductDtoTest.testArrayMonetaryValueWithComma" />
+        <item itemvalue="PHPUnit.NotaFiscalTest.testProductsInXml" />
+        <item itemvalue="Composer Script.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PS-242.23726.107" />
+        <option value="bundled-php-predefined-a98d8de5180a-90914f2295cb-com.jetbrains.php.sharedIndexes-PS-242.23726.107" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="80805649-56e9-47b3-b4e2-67d94d8af1cd" name="Changes" comment="" />
+      <created>1728500950025</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728500950025</updated>
+      <workItem from="1728500955260" duration="5213000" />
+      <workItem from="1728557588854" duration="4351000" />
+      <workItem from="1728561958283" duration="943000" />
+      <workItem from="1729767258396" duration="4987000" />
+    </task>
+    <task id="LOCAL-00001" summary="Implementando teste unitarios">
+      <option name="closed" value="true" />
+      <created>1729771771187</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729771771188</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Ajuste gitignore">
+      <option name="closed" value="true" />
+      <created>1729771928859</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1729771928859</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Implementando teste unitarios" />
+    <MESSAGE value="Ajuste gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ajuste gitignore" />
+  </component>
+</project>
