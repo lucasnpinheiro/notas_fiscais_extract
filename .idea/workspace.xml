@@ -24,18 +24,18 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "lucasnpinheiro"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;lucasnpinheiro&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/lucasnpinheiro/notas_fiscais_extract.git",
-    "accountId": "be5a3644-75d1-46c8-a7ff-e68d72bdc8f1"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/lucasnpinheiro/notas_fiscais_extract.git&quot;,
+    &quot;accountId&quot;: &quot;be5a3644-75d1-46c8-a7ff-e68d72bdc8f1&quot;
   }
-}]]></component>
+}</component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP">
     <include_path>
       <path value="$PROJECT_DIR$/vendor/composer" />
@@ -79,38 +79,38 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Composer Script.coverage.executor": "Run",
-    "Composer Script.test.executor": "Run",
-    "Composer Script.testdox.executor": "Run",
-    "PHP Script.index.php.executor": "Run",
-    "PHPUnit.CofinsDtoTest.executor": "Run",
-    "PHPUnit.CofinsDtoTest.testToArray.executor": "Run",
-    "PHPUnit.IcmsDtoTest.executor": "Run",
-    "PHPUnit.IpiDtoTest.executor": "Run",
-    "PHPUnit.NotaFiscalTest.executor": "Run",
-    "PHPUnit.NotaFiscalTest.testCleanXmlContent.executor": "Run",
-    "PHPUnit.NotaFiscalTest.testLoadFromFileNotExists.executor": "Run",
-    "PHPUnit.NotaFiscalTest.testProductsInXml.executor": "Run",
-    "PHPUnit.NotaFiscalTest.testRemoveTags.executor": "Run",
-    "PHPUnit.NotaFiscalTest.testRemoveTagsSubLevel.executor": "Run",
-    "PHPUnit.PisDtoTest.executor": "Run",
-    "PHPUnit.ProductDtoTest (1).executor": "Run",
-    "PHPUnit.ProductDtoTest.executor": "Run",
-    "PHPUnit.ProductDtoTest.testArrayMonetaryValueWithComma.executor": "Run",
-    "PHPUnit.ProductDtoTest.testToArrayMethod.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "com.codeium.enabled": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Composer Script.coverage.executor&quot;: &quot;Run&quot;,
+    &quot;Composer Script.test.executor&quot;: &quot;Run&quot;,
+    &quot;Composer Script.testdox.executor&quot;: &quot;Run&quot;,
+    &quot;PHP Script.index.php.executor&quot;: &quot;Run&quot;,
+    &quot;PHPUnit.CofinsDtoTest.executor&quot;: &quot;Run&quot;,
+    &quot;PHPUnit.CofinsDtoTest.testToArray.executor&quot;: &quot;Run&quot;,
+    &quot;PHPUnit.IcmsDtoTest.executor&quot;: &quot;Run&quot;,
+    &quot;PHPUnit.IpiDtoTest.executor&quot;: &quot;Run&quot;,
+    &quot;PHPUnit.NotaFiscalTest.executor&quot;: &quot;Run&quot;,
+    &quot;PHPUnit.NotaFiscalTest.testCleanXmlContent.executor&quot;: &quot;Run&quot;,
+    &quot;PHPUnit.NotaFiscalTest.testLoadFromFileNotExists.executor&quot;: &quot;Run&quot;,
+    &quot;PHPUnit.NotaFiscalTest.testProductsInXml.executor&quot;: &quot;Run&quot;,
+    &quot;PHPUnit.NotaFiscalTest.testRemoveTags.executor&quot;: &quot;Run&quot;,
+    &quot;PHPUnit.NotaFiscalTest.testRemoveTagsSubLevel.executor&quot;: &quot;Run&quot;,
+    &quot;PHPUnit.PisDtoTest.executor&quot;: &quot;Run&quot;,
+    &quot;PHPUnit.ProductDtoTest (1).executor&quot;: &quot;Run&quot;,
+    &quot;PHPUnit.ProductDtoTest.executor&quot;: &quot;Run&quot;,
+    &quot;PHPUnit.ProductDtoTest.testArrayMonetaryValueWithComma.executor&quot;: &quot;Run&quot;,
+    &quot;PHPUnit.ProductDtoTest.testToArrayMethod.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;com.codeium.enabled&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Composer Script.test">
     <configuration name="test" type="ComposerRunConfigurationType" factoryName="Composer Script" temporary="true">
       <option name="pathToComposerJson" value="$PROJECT_DIR$/composer.json" />
